@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corneliusnepos07nippgoog_0048.png"; bbox 0 0 2764 4768; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 32 1064 916 1277">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 32 1064 1060 1277">
+     <span class='ocr_line' id='line_1_1' title="bbox 32 1064 916 1277; baseline -0.014 -40"><span class='ocrx_word' id='word_1_1' title='bbox 32 1225 53 1237; x_wconf 84' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 293 1265 307 1277; x_wconf 84' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 360 1135 617 1235; x_wconf 15' lang='lat' dir='ltr'><strong>&lt;commu</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 661 1064 916 1224; x_wconf 20' lang='lat' dir='ltr'><strong>NEPOTIS*</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 576 1419 676 1471">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 576 1419 676 1471">
+     <span class='ocr_line' id='line_1_2' title="bbox 576 1419 676 1471; baseline -0.03 0"><span class='ocrx_word' id='word_1_5' title='bbox 576 1419 676 1471; x_wconf 78' lang='lat' dir='ltr'>LlssER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 134 1693 1117 1853">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 134 1693 1117 1853">
+     <span class='ocr_line' id='line_1_3' title="bbox 134 1693 1117 1853; baseline 0.004 -46"><span class='ocrx_word' id='word_1_6' title='bbox 134 1696 223 1809; x_wconf 78' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 258 1693 798 1826; x_wconf 74' lang='lat' dir='ltr'>ExcELLENTfflUs</span> <span class='ocrx_word' id='word_1_8' title='bbox 819 1695 1117 1853; x_wconf 11' lang='lat' dir='ltr'><strong>‘DUclssus</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 77 2003 936 2099">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 77 2003 936 2099">
+     <span class='ocr_line' id='line_1_4' title="bbox 77 2003 936 2099; baseline -0.003 -15"><span class='ocrx_word' id='word_1_9' title='bbox 77 2003 86 2014; x_wconf 70' lang='grc'><em>“</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 275 2042 279 2057; x_wconf 83' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 404 2021 635 2083; x_wconf 71' lang='lat' dir='ltr'><strong>EXTERARUM</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 657 2020 837 2082; x_wconf 69' lang='grc' dir='ltr'><strong>οΕΝΤιυΜ.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 932 2094 936 2099; x_wconf 38' lang='grc'><em>,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1386 4768">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1386 4768">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1386 4768; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1386 4768; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
